@@ -1,4 +1,5 @@
-﻿namespace CommandletCode;
+﻿// Doc: https://learn.microsoft.com/en-us/dotnet/api/system.management.automation.cmdlet?view=powershellsdk-7.4.0
+namespace CommandletCode;
 using System.Management.Automation;
 
 [Cmdlet(VerbsCommon.Get, "RepeatedString")]
